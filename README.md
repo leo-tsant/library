@@ -1,7 +1,7 @@
 # Library
 
 Live Demo:
-https://leo-tsant.github.io/Library/
+https://leo-tsant.github.io/library/
 
 ![Project Screenshot](./Images/library.png)
 
